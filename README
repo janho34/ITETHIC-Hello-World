@@ -1,0 +1,7 @@
+This is sample code..
+
+Hello World PHP code
+
+<?php
+Print "Hello, World!";
+?>
